@@ -50,6 +50,4 @@
   <li><strong>Content Deployment</strong>: Synchronize content files (e.g., HTML, CSS, images) from a development environment to a production environment for websites or web applications, ensuring the production server always has the latest version of the content.</li>
 </ul>
 
-<p>Make sure to include proper error handling and ensure that the script is executed with appropriate permissions to read from and write to the specified folders.</p>
 
-<p>Feel free to customize and adapt the script to suit your specific needs.</p>
